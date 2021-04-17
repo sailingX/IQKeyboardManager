@@ -2,11 +2,11 @@
   "name": "IQKeyboardManagerSwift",
   "version": "6.5.7",
   "source": {
-    "git": "https://github.com/hackiftekhar/IQKeyboardManager.git",
+    "git": "https://github.com/sailingX/IQKeyboardManager.git",
     "tag": "v6.5.7"
   },
   "summary": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.",
-  "homepage": "https://github.com/hackiftekhar/IQKeyboardManager",
+  "homepage": "https://github.com/sailingX/IQKeyboardManager",
   "screenshots": "https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/Screenshot/IQKeyboardManagerScreenshot.png",
   "license": "MIT",
   "authors": {
